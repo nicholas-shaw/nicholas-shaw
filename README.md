@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicholas-shaw
 - 👀 I’m interested in making beautiful, useful or interesting things on the web.
-- 🌱 I’m currently learning more advanced react-based tooling.
+- 🌱 While skilled in advanced react, I've bounced pretty heavily toward Svelte as my framework of choice.
 - 💞️ I’m looking to collaborate on anything that challenges me in the right way, and help keep my goal of coding every single day 
 - 📫 How to reach me Bluesky: @nicholas-shaw.com Web: nicholas-shaw.com
 
