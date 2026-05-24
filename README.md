@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on anything that challenges me in the right way, and help keep my goal of coding every single day 
 - 📫 How to reach me Bluesky: @nicholas-shaw.com Web: nicholas-shaw.com
 
-<!---
-nicholas-shaw/nicholas-shaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Tools I use
+## Coding config
+ - **IDE:** VS Code
+ - **Terminal:** ZSH, but I've been toying with WARP 
+## Domain management
+ - [dmarctester.com](https://www.dmarctester.com) Excellent tool for educating yourself on email configuration, and testing your setup.
+## Other helpful tools
+ - **[Better Touch Tool](https://folivora.ai)**: Fantastic tool for shortcuts and automation, used in combination with just about everything including Automator
+ - **Home Assistant**: The BEST self hosted automation platform, Docker instance on my Sever constantly running
